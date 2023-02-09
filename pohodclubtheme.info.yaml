@@ -1,0 +1,10 @@
+name: PohodClubCom
+type: theme
+core_version_requirement: ^9
+libraries:
+base theme: classy
+regions:
+  header: Header
+  content: Content
+  sidebar_first: 'Sidebar first'
+  footer: Footer
