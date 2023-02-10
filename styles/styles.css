@@ -2,7 +2,7 @@
 @import url(./vendor/normalize.css);
 @import url(./fonts/fonts.css);
 /* вся страница и технические блоки для миксов */
-@import url(./blocks/page/page.css); 
+@import url(./blocks/page/page.css);
 @import url(./blocks/link/link.css);
 @import url(./blocks/link/_active/link_active.css);
 @import url(./blocks/content/content.css);
@@ -11,47 +11,47 @@
 
 /* Шапка */
 @import url(./blocks/header/header.css);
-  @import url(./blocks/header/__container/header__container.css);
-  @import url(./blocks/header/__logo/header__logo.css);
+@import url(./blocks/header/__container/header__container.css);
+@import url(./blocks/header/__logo/header__logo.css);
 
-  @import url(./blocks/menu/menu.css);
-  @import url(./blocks/menu/__list/menu__list.css);
-  @import url(./blocks/menu/__element/menu__element.css);
-  
+@import url(./blocks/menu/menu.css);
+@import url(./blocks/menu/__list/menu__list.css);
+@import url(./blocks/menu/__element/menu__element.css);
+
 @import url(./blocks/banner/banner.css);
-  @import url(./blocks/banner__content/banner__content.css);
-  @import url(./blocks/banner/__title/banner__title.css);  
+@import url(./blocks/banner__content/banner__content.css);
+@import url(./blocks/banner/__title/banner__title.css);
 
-  /* Контент */
+/* Контент */
 
 @import url(./blocks/section/section.css);
-  @import url(./blocks/section/__title/section__title.css);
-  @import url(./blocks/section/__text/section__text.css);
+@import url(./blocks/section/__title/section__title.css);
+@import url(./blocks/section/__text/section__text.css);
 
 @import url(./blocks/card-container/card-container.css);
-  @import url(./blocks/card-container/_youtube/card-container_youtube.css);
+@import url(./blocks/card-container/_youtube/card-container_youtube.css);
 
 @import url(./blocks/card/card.css);
-    @import url(./blocks/card/_small/card_small.css);
-    @import url(./blocks/card/_youtube/card_youtube.css);
-    @import url(./blocks/card/_review/card_review.css);
-  @import url(./blocks/card/__image/card__image.css);
-    @import url(./blocks/card/__image/_round/card__image_round.css);
-    @import url(./blocks/card/__image/_icon/card__image_icon.css);
-  @import url(./blocks/card/__container/card__container.css);
-  @import url(./blocks/card/__title/card__title.css);
-  @import url(./blocks/card/__subtitle/card__subtitle.css);
-    @import url(./blocks/card/__subtitle/_review/card__subtitle_review.css);
-  @import url(./blocks/card/__text/card__text.css);
-  @import url(./blocks/card/__spantext/card__spantext.css);
-  @import url(./blocks/card/__youtube/card__youtube.css);
-  
-  @import url(./blocks/card2/__title/card2__title.css);
+@import url(./blocks/card/_small/card_small.css);
+@import url(./blocks/card/_youtube/card_youtube.css);
+@import url(./blocks/card/_review/card_review.css);
+@import url(./blocks/card/__image/card__image.css);
+@import url(./blocks/card/__image/_round/card__image_round.css);
+@import url(./blocks/card/__image/_icon/card__image_icon.css);
+@import url(./blocks/card/__container/card__container.css);
+@import url(./blocks/card/__title/card__title.css);
+@import url(./blocks/card/__subtitle/card__subtitle.css);
+@import url(./blocks/card/__subtitle/_review/card__subtitle_review.css);
+@import url(./blocks/card/__text/card__text.css);
+@import url(./blocks/card/__spantext/card__spantext.css);
+@import url(./blocks/card/__youtube/card__youtube.css);
+
+@import url(./blocks/card2/__title/card2__title.css);
 
 @import url(./blocks/form/form.css);
-  @import url(./blocks/form/__title/form__title.css);
-  @import url(./blocks/form/__input/form__input.css);
-  @import url(./blocks/form/__button/form__button.css);
+@import url(./blocks/form/__title/form__title.css);
+@import url(./blocks/form/__input/form__input.css);
+@import url(./blocks/form/__button/form__button.css);
 
-  /* Подвал */
+/* Подвал */
 @import url(./blocks/footer/footer.css);
