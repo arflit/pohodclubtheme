@@ -1,29 +1,4 @@
-.menu {
-  margin: auto 0 12px auto;
-}
 
-@media (max-width: 1160px) {
-  .menu {
-    margin: auto 0 7px auto;
-  }
-}
-.menu__list {
-  display: flex;
-  margin: 0;
-  padding: 0;
-}
-.menu__element {
-  list-style: none;
-  font-family: "Monserrat", "Arial", "Helvetica", sans-serif;
-  font-weight: 400;
-  color: #000;
-  font-size: 16px;
-  margin-right: 20px;
-}
-
-.menu__element:last-of-type {
-  margin-right: 0;
-}
 /* нормалайз и шрифты */
 @import url(./vendor/normalize.css);
 @import url(./fonts/fonts.css);
