@@ -1,0 +1,7 @@
+.card2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 10px;
+  border: 4px solid rgba(0, 0, 0, 0.1);
+}

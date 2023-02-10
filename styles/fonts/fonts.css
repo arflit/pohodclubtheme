@@ -1,0 +1,79 @@
+@font-face {
+  font-family: 'Monserrat';
+  font-style:  normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../fonts/Montserrat-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: 'Monserrat';
+  font-style:  normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("../fonts/Montserrat-Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: 'Monserrat';
+  font-style:  normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("../fonts/Montserrat-SemiBold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: 'M PLUS Rounded 1c';
+  font-style:  normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../fonts/MPLUSRounded1c-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: 'M PLUS Rounded 1c';
+  font-style:  normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("../fonts/MPLUSRounded1c-Medium.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: 'M PLUS Rounded 1c';
+  font-style:  normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url("../fonts/MPLUSRounded1c-ExtraBold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: 'Gelasio';
+  font-style:  normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("../fonts/Gelasio-Medium.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: 'Gelasio';
+  font-style:  normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("../fonts/Gelasio-Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: 'Roboto';
+  font-style:  normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../fonts/Roboto-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: 'Poppins';
+  font-style:  normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../fonts/Poppins-Regular.ttf") format("truetype");
+}

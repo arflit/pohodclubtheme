@@ -1,0 +1,16 @@
+.content {
+  max-width: 1280px;
+  margin: 0px auto;
+}
+
+@media (max-width: 1360px) {
+  .content {
+    margin: 0px 40px;
+  }
+}
+
+@media (max-width: 1160px) {
+  .content {
+    margin: 0px 20px;
+  }
+}

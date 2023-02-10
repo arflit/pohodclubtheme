@@ -1,0 +1,21 @@
+.banner {
+  background-image: url(../../images/banner.png);
+  background-size: cover;
+  width: 100%;
+  height: calc(100vw*.38);
+  padding-top: calc(100vw*.12);
+  margin-top: 104px;
+  box-sizing: border-box;
+}
+
+@media (max-width: 1360px) {
+  .banner {
+    margin-top: 68px;
+  }
+}
+
+@media (max-width: 1160px) {
+  .banner {
+    margin-top: 55px;
+  }
+}

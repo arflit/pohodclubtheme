@@ -1,0 +1,7 @@
+
+@media (max-width: 1360px) {
+  .card-container_youtube {
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+}

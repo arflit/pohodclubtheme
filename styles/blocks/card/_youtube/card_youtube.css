@@ -1,0 +1,17 @@
+.card_youtube {
+  border: 0;
+  box-shadow: none;
+  width: calc((100% - 90px) / 4);
+}
+
+@media (max-width: 1360px) {
+  .card_youtube {
+    width: calc((100vw - 140px) / 2);
+  }
+}
+
+@media (max-width: 1160px) {
+  .card_youtube {
+    width: calc((100vw - 70px) / 2);
+  }
+}

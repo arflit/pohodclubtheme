@@ -1,0 +1,8 @@
+.form {
+  background-color: #D4EAEF;
+  display: flex;
+  flex-direction: column;
+  width: calc(50% - 15px);
+  padding: 27px 50px 53px 53px;
+  box-sizing: border-box;
+}

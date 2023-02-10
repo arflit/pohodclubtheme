@@ -1,0 +1,12 @@
+.menu__element {
+  list-style: none;
+  font-family: 'Monserrat', 'Arial', 'Helvetica', sans-serif;
+  font-weight: 400;
+  color: #000;
+  font-size: 16px;
+  margin-right: 20px;
+}
+
+.menu__element:last-of-type {
+  margin-right: 0;
+}

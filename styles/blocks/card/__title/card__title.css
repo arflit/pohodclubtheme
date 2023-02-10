@@ -1,0 +1,8 @@
+.card__title {
+  font-family: 'M PLUS Rounded 1c', 'Arial', 'Helvetica', sans-serif;
+  font-weight: 800;
+  color: #FF5c22;
+  font-size: 22px;
+  margin: 10px 0 0;
+  text-align: center;
+}
