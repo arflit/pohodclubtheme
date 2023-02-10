@@ -2,7 +2,7 @@ name: PohodClubCom
 type: theme
 core_version_requirement: ^9 || ^10
 libraries:
-  pohodclubtheme/global-styling
+  - pohodclubtheme/global-styling
 base theme: false
 regions:
   header: Header`
