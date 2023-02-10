@@ -5,7 +5,8 @@ libraries:
   - pohodclubtheme/global-styling
 base theme: false
 regions:
-  header: 'Header'
-  content: 'Content'
-  sidebar_first: 'Sidebar first'
-  footer: 'Footer'
+  header: "Header"
+  logo: "Logo"
+  content: "Content"
+  sidebar_first: "Sidebar first"
+  footer: "Footer"

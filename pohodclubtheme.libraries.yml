@@ -7,4 +7,3 @@ global-styling:
     js/script.js: {}
   dependencies:
     - core/jquery
-
