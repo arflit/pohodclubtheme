@@ -6,6 +6,7 @@
   padding-top: calc(100vw*.12);
   margin-top: 104px;
   box-sizing: border-box;
+  background-position: center center;
 }
 
 @media (max-width: 1360px) {
@@ -17,5 +18,11 @@
 @media (max-width: 1160px) {
   .banner {
     margin-top: 55px;
+  }
+}
+
+@media (max-width: 900px) {
+  .banner {
+    height: calc(100vw*.6);
   }
 }
