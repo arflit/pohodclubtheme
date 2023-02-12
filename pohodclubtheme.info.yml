@@ -7,6 +7,7 @@ base theme: false
 regions:
   header: "Header"
   logo: "Logo"
+  menu: "Menu"
   content: "Content"
   sidebar_first: "Sidebar first"
   footer: "Footer"
