@@ -1,9 +1,9 @@
-.menu {
+.menu--main {
   margin: auto 0 12px auto;
 }
 
 @media (max-width: 1160px) {
-  .menu {
+  .menu--main {
     margin: auto 0 7px auto;
   }
 }
