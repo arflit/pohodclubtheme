@@ -4,3 +4,14 @@
   align-items: flex-end;
 }
 
+@media (max-width: 900px) {
+  .banner__content {
+    height: calc(100vw*.6);
+  }
+}
+
+@media (max-width: 500px) {
+  .banner__content {
+    height: calc(100vw*1);
+  }
+}
