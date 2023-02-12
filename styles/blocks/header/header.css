@@ -11,4 +11,13 @@
   .header {
     padding: 10px 0 5px;
   }
+  #block-pohodclubtheme-sitebranding-2 img {
+    width: 300px;
+  }
+}
+
+@media (max-width: 1360px) {
+  #block-pohodclubtheme-sitebranding-2 img {
+    width: 300px;
+  }
 }
