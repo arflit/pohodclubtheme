@@ -21,3 +21,9 @@
     width: 300px;
   }
 }
+
+@media (max-width: 600px) {
+  #block-pohodclubtheme-sitebranding-2 img {
+    width: 100%;
+  }
+}
