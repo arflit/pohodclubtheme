@@ -1,6 +1,6 @@
 .menu--main li {
   list-style: none;
-  font-family: 'Monserrat', 'Arial', 'Helvetica', sans-serif;
+  font-family: "Monserrat", "Arial", "Helvetica", sans-serif;
   font-weight: 400;
   font-size: 20px;
 }
@@ -11,5 +11,12 @@
 }
 
 .menu--main a:hover {
-  text-decoration: underline #FF5C22;
+  border-bottom: 3px solid #ff5c22;
+}
+
+@media (max-width: 600px) {
+  .menu--main a:hover {
+    border-bottom: none;
+    border-left: 5px solid #ff5c22;
+  }
 }
