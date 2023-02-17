@@ -3,14 +3,9 @@
   font-family: 'Monserrat', 'Arial', 'Helvetica', sans-serif;
   font-weight: 400;
   font-size: 20px;
-  margin-right: 20px;
 }
 
 .menu--main a {
   color: #000;
   text-decoration: none;
-}
-
-.menu--main li:last-of-type {
-  margin-right: 0;
 }
