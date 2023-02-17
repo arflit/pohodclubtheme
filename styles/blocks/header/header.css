@@ -23,12 +23,6 @@
 }
 
 @media (max-width: 1000px) {
-  #block-pohodclubtheme-sitebranding-2 {
-    height: 100px;
-  }
-  #block-pohodclubtheme-sitebranding-2 a {
-    margin: auto 0;
-  }
   #block-pohodclubtheme-sitebranding-2 img {
     width: 300px;
   }
