@@ -2,9 +2,9 @@
   background-image: url(../../../../images/banner.png);
   background-size: cover;
   width: 100%;
-  height: calc(100vw*.38);
+  height: calc(100vw * 0.38);
   min-height: 400px;
-  padding-top: calc(100vw*.12);
+  padding-top: calc(100vw * 0.12);
   margin-top: 100px;
   box-sizing: border-box;
   background-position: center center;
@@ -15,7 +15,7 @@
   background-color: #fff;
   color: #000;
   border: 5px solid #557614;
-  font-family: 'M PLUS Rounded 1c', 'Arial', 'Helvetica', sans-serif;
+  font-family: "M PLUS Rounded 1c", "Arial", "Helvetica", sans-serif;
   font-weight: 400;
   font-size: 27px;
   box-sizing: border-box;
@@ -31,9 +31,14 @@
   }
 }
 
+@media (max-width: 1160px) {
+  .banner__button {
+    padding: 10px 25px;
+  }
+}
+
 @media (max-width: 800px) {
   .banner {
     margin-top: 0;
   }
 }
-
